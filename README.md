@@ -1,4 +1,6 @@
-# Express
+![Express Logo](https://st.timeweb.com/cloud-static/apps-logo/express.svg)
+
+# Express on Deno
 
 Пример приложения [Express](https://expressjs.com/) на [Deno](https://deno.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
